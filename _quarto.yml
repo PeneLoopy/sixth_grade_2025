@@ -5,10 +5,6 @@ website:
   title: "JDMS 6th Grade Survey"
   sidebar:
     contents:
-      - href: index.qmd
-        text: Home
-      - href: about.qmd
-        text: About
       - href: survey_dashboard.qmd
         text: Dashboard
 
